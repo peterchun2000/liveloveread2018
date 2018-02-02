@@ -11,6 +11,8 @@ open the file in a programming enviornment, preferably android studio
 
 run the app in an emulator
 
+
+download screenshots: https://github.com/peterchun2000/liveloveread2018/blob/master/liveloveread_screenshots.pdf
 _______________________________________________________________________________________
 
 User Instructions:
