@@ -1,6 +1,6 @@
 # liveloveread2018
 fbla mobile app development 2018
-
+_______________________________________________________________________________________
 Setup Instructions:
 
 download the github files
@@ -11,7 +11,7 @@ open the file in a programming enviornment, preferably android studio
 
 run the app in an emulator
 
-
+_______________________________________________________________________________________
 
 User Instructions:
 
@@ -25,7 +25,7 @@ Teacher Username: teacher
 
 Teacher Password: teacher
 
-
+_______________________________________________________________________________________
 main page,
 
 Map---> displays map
